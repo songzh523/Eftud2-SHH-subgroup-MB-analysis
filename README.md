@@ -1,0 +1,3 @@
+Alternative splicing events exhibit distinct alterations across four subgroups of medulloblastoma.
+Fig.1 We calculate percent sliced in (PSI) values for exons (with ≥10 junction reads) in cerebellum tissue (CTRL) (n = 3) from normal humans and the WNT (a, n = 3), SHH (c, n = 6), G3 (e, n = 9), G4 (g, n = 12) subgroup tumor tissue (MB patients) from medulloblastoma patients (Wilcoxon rank-sum test).
+Fig.5 We depict the percentage of alternative splicing events altered in cerebellar tissue from SmoM2fl/+ mice and tumor tissue from SmoM2Atoh1 mice, as identified in RNA-seq data (Wilcoxon rank-sum test)
